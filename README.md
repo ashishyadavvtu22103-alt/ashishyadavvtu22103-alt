@@ -119,13 +119,10 @@
 <img align="center" src="https://skillicons.dev/icons?i=github" height="40" width="40" />
 </a>
 
-<a href="https://linkedin.com" target="blank">
+<a href="[https://linkedin.com](https://www.linkedin.com/in/ashishkumar22103/)" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" width="40" />
 </a>
 
-<a href="https://instagram.com" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=instagram" height="40" width="40" />
-</a>
 
 </p>
 
