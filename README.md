@@ -8,24 +8,23 @@
 <div>
 <br/>
 
-- 💻 Passionate Full-Stack Developer and Coding Enthusiast<br/>
-- 🌱 Currently improving problem-solving and web development skills<br/>
-- 🚀 Skilled in Python, HTML, CSS and Node.js<br/>
-- 🔥 Interested in  and Open Source Projects<br/>
+- 💻 Aspiring Software Developer with interest in Cybersecurity and Data Analytics<br/>
+- 🌱 Currently improving problem-solving skills and preparing for CompTIA Security+<br/>
+- 🚀 Skilled in Python, SQL, Flask, Git/GitHub and Linux fundamentals<br/>
+- 🔥 Interested in Cybersecurity, Data Analytics and Open Source Projects<br/>
 - 📚 Solving daily coding problems to strengthen DSA concepts<br/>
-
 </div>
 
 # Main Skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react" height="80"/>
-  <img src="https://skillicons.dev/icons?i=js" height="80"/>
   <img src="https://skillicons.dev/icons?i=python" height="80"/>
-  <img src="https://skillicons.dev/icons?i=nodejs" height="80"/>
-  <img src="https://skillicons.dev/icons?i=html" height="80"/>
-  <img src="https://skillicons.dev/icons?i=css" height="80"/>
+  <img src="https://skillicons.dev/icons?i=js" height="80"/>
   <img src="https://skillicons.dev/icons?i=mysql" height="80"/>
+  <img src="https://skillicons.dev/icons?i=git" height="80"/>
+  <img src="https://skillicons.dev/icons?i=github" height="80"/>
+  <img src="https://skillicons.dev/icons?i=linux" height="80"/>
+  <img src="https://skillicons.dev/icons?i=flask" height="80"/>
 </p>
 
 # 💻 Favorite Tools & Technologies
