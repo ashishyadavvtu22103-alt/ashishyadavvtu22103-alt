@@ -10,8 +10,8 @@
 
 - 💻 Passionate Full-Stack Developer and Coding Enthusiast<br/>
 - 🌱 Currently improving problem-solving and web development skills<br/>
-- 🚀 Skilled in Python, JavaScript, React.js, HTML, CSS and Node.js<br/>
-- 🔥 Interested in MERN Stack Development and Open Source Projects<br/>
+- 🚀 Skilled in Python, HTML, CSS and Node.js<br/>
+- 🔥 Interested in  and Open Source Projects<br/>
 - 📚 Solving daily coding problems to strengthen DSA concepts<br/>
 
 </div>
